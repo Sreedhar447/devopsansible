@@ -19,3 +19,17 @@ kill -9 1159
 sudo yum install -y git
 git
 clear
+sudo yum install epel-release -y
+sudo yum install ansible -y
+ls
+clear
+cat /etc/ansible/hosts.
+cat /etc/ansible/hosts
+git clone https://github.com/Sreedhar447/Devops_Yaml_files.git
+ls
+cd Devops_Yaml_files/
+ls
+vim 01-single-play-single-task.yml 
+sudo yum install -y vim
+vim 01-single-play-single-task.yml 
+cat /etc/ansible/hosts
